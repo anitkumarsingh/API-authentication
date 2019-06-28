@@ -1,0 +1,25 @@
+{
+  "name": "api-authentication",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/anitkumarsingh/API-Authentication.git"
+  },
+  "author": "Anit Kumar",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/anitkumarsingh/API-Authentication/issues"
+  },
+  "homepage": "https://github.com/anitkumarsingh/API-Authentication#readme",
+  "devDependencies": {
+    "nodemon": "^1.19.1"
+  },
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
