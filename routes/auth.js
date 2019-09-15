@@ -1,7 +1,8 @@
 const router = require('express').Router();
 
 router.post('/register',(req,res)=>{
-res.send('Your have registered successfully');
+    res.send('Registered successfully');
 })
+
 
 module.exports = router;
